@@ -4,11 +4,6 @@ Used tkinter and core libraries to make youtube downloader, speed is unmatchable
 ## Preview
 <img width="1161" height="1003" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/76ede47c-a5c5-4910-a44d-088bbc3032e0" />
 
-[![GitHub issues](https://shields.io)](https://github.com)
-[![GitHub forks](https://shields.io)](https://github.com)
-[![GitHub stars](https://shields.io)](https://github.com)
-[![GitHub license](https://shields.io)](https://github.com)
-[![Instagram](https://shields.io)](https://instagram.com)
 
 A high-performance YouTube downloader built using Tkinter and core Python libraries. Features an unmatchable download speed and a sleek graphical interface to save your favorite videos instantly. ⚡🚀
 
